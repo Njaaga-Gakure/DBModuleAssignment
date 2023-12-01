@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.AssemblyInfo.cs
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\bin\Debug\net7.0\BookStoreTrinity.exe
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\bin\Debug\net7.0\BookStoreTrinity.deps.json
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\bin\Debug\net7.0\BookStoreTrinity.runtimeconfig.json
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\bin\Debug\net7.0\BookStoreTrinity.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\bin\Debug\net7.0\BookStoreTrinity.pdb
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.csproj.CopyComplete
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\refint\BookStoreTrinity.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.pdb
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\BookStoreTrinity.genruntimeconfig.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreTrinity\obj\Debug\net7.0\ref\BookStoreTrinity.dll

@@ -1,0 +1,57 @@
+{
+  "books": [
+    {
+      "BookName": "black blad",
+      "Description": "A book about a great rugby team",
+      "id": 1
+    },
+    {
+      "BookName": "try",
+      "Description": "try catch",
+      "id": 2
+    },
+    {
+      "BookName": "the fundamentals of C# programming",
+      "Description": "a book describing basic concepts of c#",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "UserName": "brian",
+      "Password": "12345",
+      "Role": "admin",
+      "id": 1
+    },
+    {
+      "UserName": "evans",
+      "Password": "12345",
+      "Role": "user",
+      "id": 2
+    },
+    {
+      "UserName": "jonathan",
+      "Password": "1234",
+      "Role": "user",
+      "id": 3
+    },
+    {
+      "UserName": "milla",
+      "Password": "12345",
+      "Role": "user",
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "UserId": 3,
+      "BookId": 1,
+      "id": 1
+    },
+    {
+      "UserId": 4,
+      "BookId": 2,
+      "id": 2
+    }
+  ]
+}
